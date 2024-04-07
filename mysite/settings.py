@@ -39,9 +39,9 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "vaccine.apps.VaccineConfig",
     "user.apps.UserConfig",
-    "centger.apps.CenterConfig",
+    "center.apps.CenterConfig",
     "campaign.apps.CampaignConfig",
-    "vaccination.apps.Vaccation.apps.VaccinationConfig",
+    "vaccination.apps.VaccinationConfig",
 ]
 
 MIDDLEWARE = [
